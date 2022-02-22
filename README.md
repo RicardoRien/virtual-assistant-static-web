@@ -1,6 +1,6 @@
 # Virtual Assistant ~ Gatsby-Static-Website
 
-## [virtual-assistant-gatsby.netlify.app](virtual-assistant-gatsby.netlify.app)
+## [https://virtual-assistant-gatsby.netlify.app](virtual-assistant-gatsby.netlify.app)
 
 Smooth and fast website created with React-Gatsby
 
